@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Umgekehrt
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Umgekehrt.\r\n\ \r\n\ A.\ Pr\u00F6pper\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Umgekehrt()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Umgekehrt\r\n
+comment2.params=_wert
+comment2.target=void\ erstelleZahl(int)
+comment3.params=
+comment3.target=void\ gebeZahlenUmgekehrtAus()
+comment4.params=_text
+comment4.target=void\ erstelleText(java.lang.String)
+comment5.params=
+comment5.target=void\ gebeStringfalschHerumAus()
+comment6.params=
+comment6.target=void\ gebeStringAus()
+numComments=7
